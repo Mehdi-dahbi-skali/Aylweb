@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: 'abc';
+    font-weight: 400;
+    src: url('../public/Fonts/lostarr-webfont.woff') format('woff');
+  }
